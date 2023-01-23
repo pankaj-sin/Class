@@ -8,7 +8,9 @@ void dummy(int n ) {
 }
 
 int main() {
-
+void quicksort(){
+    //This is quicksort
+}
     int n;
     cin >> n;
 
